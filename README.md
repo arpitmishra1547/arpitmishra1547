@@ -115,13 +115,6 @@ ESP32-based dual-axis solar tracking system with a live web dashboard.
   </a>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/arpitmishra1547/">
-    <img
-      src="https://leetcard.jacoblin.cool/arpitmishra1547?theme=dark&font=baloo"
-    />
-  </a>
-</p>
 
 ---
 
