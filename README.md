@@ -39,13 +39,15 @@
 
 ### 🛍️ RajPosh
 
-Full-stack e-commerce application focused on a modern shopping experience.
+Full-stack e-commerce application with a modern shopping experience.
 
 **Next.js • JavaScript • MongoDB • Tailwind CSS**
 
-<a href="https://github.com/arpitmishra1547/RajPosh">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p>
+  <a href="https://github.com/arpitmishra1547/RajPosh">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ### 🏥 Health Hive
 
@@ -55,7 +57,7 @@ Healthcare management application with authentication, appointments and smart to
 
 ### 🌐 LNCT Website Redesign
 
-Modern responsive university website redesign with interactive UI.
+Modern responsive website redesign with interactive UI and animations.
 
 **React • Tailwind CSS • Three.js • GSAP**
 
@@ -70,8 +72,14 @@ ESP32-based dual-axis solar tracking system with a live web dashboard.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170" />
-  <img src="./profile/top-langs.svg" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=arpitmishra1547&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitmishra1547&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
@@ -79,15 +87,10 @@ ESP32-based dual-axis solar tracking system with a live web dashboard.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="./profile/streak.svg" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="./profile/trophy.svg" />
+  <img
+    src="https://streak-stats.demolab.com?user=arpitmishra1547&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
@@ -95,16 +98,28 @@ ESP32-based dual-axis solar tracking system with a live web dashboard.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="./profile/activity.svg" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=arpitmishra1547&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
 ---
 
-## 🧩 Coding
+## 🧩 LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/arpitmishra1547/">
-    <img src="https://img.shields.io/badge/LeetCode-arpitmishra1547-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LeetCode-arpitmishra1547-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/arpitmishra1547/">
+    <img
+      src="https://leetcard.jacoblin.cool/arpitmishra1547?theme=dark&font=baloo"
+    />
   </a>
 </p>
 
@@ -115,18 +130,26 @@ ESP32-based dual-axis solar tracking system with a live web dashboard.
 <p align="center">
 
 <a href="https://github.com/arpitmishra1547">
-  <img src="https://img.shields.io/badge/GitHub-arpitmishra1547-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/GitHub-arpitmishra1547-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/arpitmishra1547/">
-  <img src="https://img.shields.io/badge/LinkedIn-arpitmishra1547-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-arpitmishra1547-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
 </a>
 
 <a href="mailto:arpitmishra1547@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  />
 </a>
 
 </p>
+
+---
 
 <p align="center">
   <i>Code • Build • Learn • Repeat 🚀</i>
