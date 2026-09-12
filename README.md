@@ -15,7 +15,7 @@
 
 ---
 
-### 👨‍💻 About
+## 👨‍💻 About Me
 
 - 🎓 CSE Undergraduate @ LNCT Bhopal
 - 💻 Building full-stack web applications
@@ -23,11 +23,11 @@
 - 🔧 Node.js • Express.js • REST APIs
 - 🗄️ MongoDB • MySQL
 - 🧩 Practicing Data Structures & Algorithms
-- 🚀 Always building, learning and improving
+- 🚀 Building, learning and improving every day
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,cpp,react,nextjs,nodejs,express,html,css,tailwind,mongodb,mysql,git,github,postman,arduino,vscode" />
@@ -35,85 +35,97 @@
 
 ---
 
-### 🚀 What I'm Building
+## 🚀 Featured Projects
+
+### 🛍️ RajPosh
+
+Full-stack e-commerce application focused on a modern shopping experience.
+
+**Next.js • JavaScript • MongoDB • Tailwind CSS**
+
+<a href="https://github.com/arpitmishra1547/RajPosh">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+### 🏥 Health Hive
+
+Healthcare management application with authentication, appointments and smart token management.
+
+**Next.js • MongoDB • Mongoose • JWT • Tailwind CSS**
+
+### 🌐 LNCT Website Redesign
+
+Modern responsive university website redesign with interactive UI.
+
+**React • Tailwind CSS • Three.js • GSAP**
+
+### ☀️ SunSeekers
+
+ESP32-based dual-axis solar tracking system with a live web dashboard.
+
+**ESP32 • Arduino • JavaScript • HTML • CSS**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/arpitmishra1547/RajPosh">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arpitmishra1547&repo=RajPosh&theme=tokyonight&hide_border=true" />
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="./profile/streak.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="./profile/trophy.svg" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="./profile/activity.svg" />
+</p>
+
+---
+
+## 🧩 Coding
+
+<p align="center">
+  <a href="https://leetcode.com/arpitmishra1547/">
+    <img src="https://img.shields.io/badge/LeetCode-arpitmishra1547-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
-**RajPosh** — Full-stack e-commerce application built with modern web technologies.
-
-Other projects I'm working on:
-
-- 🏥 **Health Hive** — Healthcare management application
-- 🌐 **LNCT Website Redesign** — React-based modern UI
-- ☀️ **SunSeekers** — ESP32 dual-axis solar tracker
-
 ---
 
-### 📊 GitHub Stats
+## 🌐 Connect With Me
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=arpitmishra1547&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitmishra1547&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://github.com/arpitmishra1547">
+  <img src="https://img.shields.io/badge/GitHub-arpitmishra1547-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+<a href="https://www.linkedin.com/in/arpitmishra1547/">
+  <img src="https://img.shields.io/badge/LinkedIn-arpitmishra1547-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-### 🔥 GitHub Streak
+<a href="mailto:arpitmishra1547@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arpitmishra1547&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpitmishra1547&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitmishra1547&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🧩 Coding
-
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/DSA-Practice-blue?style=for-the-badge" />
-</p>
-
----
-
-### 🌐 Connect
-
-<p align="center">
-  <a href="mailto:arpitmishra1547@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/arpitmishra1547">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
