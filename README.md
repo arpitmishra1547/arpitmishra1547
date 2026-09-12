@@ -72,14 +72,15 @@ ESP32-based dual-axis solar tracking system with a live web dashboard.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=arpitmishra1547&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitmishra1547&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+  <a href="https://github.com/arpitmishra1547">
+    <img src="https://img.shields.io/github/followers/arpitmishra1547?style=for-the-badge&label=Followers" />
+  </a>
+
+  <a href="https://github.com/arpitmishra1547?tab=repositories">
+    <img src="https://img.shields.io/github/stars/arpitmishra1547?style=for-the-badge&label=Stars" />
+  </a>
+
+  <img src="https://img.shields.io/github/last-commit/arpitmishra1547/RajPosh?style=for-the-badge&label=Latest%20Commit" />
 </p>
 
 ---
