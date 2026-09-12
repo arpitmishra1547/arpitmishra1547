@@ -100,8 +100,8 @@ ESP32-based dual-axis solar tracking system with a live web dashboard.
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/arpitmishra1547"
-    alt="Arpit Mishra's GitHub Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=arpitmishra1547&bg_color=0d1117&color=58a6ff&line=238636&point=ffffff&area=true&hide_border=true"
+    alt="Arpit Mishra's GitHub Contribution Activity"
   />
 </p>
 
